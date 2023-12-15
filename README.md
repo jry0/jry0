@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- I am a soon to be New Grad from UWaterloo (April 2024).
+- I have experience in backend web development with Java (Spring) and Python (Django, Flask).
+- Stay posted for some neat side projects!
 <!--
 **jry0/jry0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
