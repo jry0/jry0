@@ -1,7 +1,9 @@
 ### Hi there 👋
 - I am a New Grad from UWaterloo (Computer Engineering).
 - I have experience in backend web development with Java (Spring 🫘) and Python (FastAPI ⚡️).
-- I'm currently learning system design fundementals and Go!
+- I'm currently learning system design fundementals and _Go_!
+
+     
 - Stay posted for some neat side projects!
 <!--
 **jry0/jry0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
