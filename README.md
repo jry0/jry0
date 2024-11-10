@@ -1,7 +1,7 @@
 ### Hi there 👋
-- I am a New Grad from UWaterloo (Computer Engineering).
-- I have experience building web backends using Java (Spring 🫘) and Python (FastAPI ⚡️).
-- I am currently learning system design fundementals and Go!
+- I'm a recent graduate from the University of Waterloo (Computer Engineering).
+- I have experience building web backends using Java (Spring) and Python (FastAPI).
+- I'm currently learning system design fundementals and Go!
 
      
 - Stay posted for some neat side projects!
